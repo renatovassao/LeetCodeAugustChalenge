@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="PowerOfFour.fs" />
+    <Compile Include="DesignHashSet.fs" />
+    <Compile Include="ValidPalindrome.fs" />
+    <Compile Include="DetectCapital.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+</Project>
